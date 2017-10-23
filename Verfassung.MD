@@ -40,10 +40,6 @@ Dem Parlament sitzt ein Parlamentspräsident vor, der kein Stimmrecht hat, die D
 
 _Vorschlag: Der Parlamentspräsident wird aus dem Kreis der Abgeordneten benannt, d.h. er ist auch stimmberechtigt (siehe
 Bundestagspräsident BRD_
-Alle Abgeordneten des Parlaments haben eine Amtsimmunität, welche jedoch jederzeit vom Verfassungsgericht aufgehoben werden kann. 
-
-Dem Parlament sitzt ein Parlamentspräsident vor, der kein Stimmrecht hat, die Diskussionen leitet und darauf achtet, dass die Geschäftsordnung eingehalten wird. Er wird von dem gesamten Parlament gewählt und ist eine Legislaturperiode im Amt. Im Falle einer Stimmgleichheit hat der Parlamentsprasident eine Stimme und ist die entscheidende Kraft. 
-
 
 Ein Gesetzesvorschlag, den 5 Abgeordnete gemeinsam einbringen, muss im Plenum diskutiert und am Ende darüber abgestimmt werden. 
 
@@ -84,6 +80,7 @@ Die Maximalgröße pro Ministerium beträgt 6 Mitarbeiter (5 Beamte, 1 Minister)
 Artikel 1 bis 20 werden aus dem deutschen GG übernommen.
 
 Eine Änderung dieses Grundgesetzes, durch welche die in den Artikeln 1 und 20 niedergelegten Grundsätze berührt werden, ist unzulässig.
+
 
 ## 6. Exekutive
 
